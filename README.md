@@ -1,5 +1,5 @@
 # ResearchPaper_HallucinationDetectionContextualQuestionAnswering
-Carrying out my Hallucination Detection Model from Hackathon to a Research Paper by working on 8 different models and a more large dataset.<br>
+Carrying out my Hallucination Detection Model from Hackathon to a Research Paper by working on 8 different models and a more large dataset of over 5K samples.<br>
 After evaluating the performance of all the models, it was evident that the Support Vector Machine (SVM) outperformed the other models. It achieved the highest accuracy of 82% and the highest F1 Score of 83.2%. The Support Vector Machine (SVM) combines the predictions of multiple models to deliver a robust and accurate classification. The ensemble approach of the Support Vector Machine (SVM) proves to be effective in hallucination detection in textual data, specifically in the context of contextual question answering.<br><br>
 Below is the metrics result - <br>
 • Accuracy: SVM has the highest accuracy of 0.8417, followed closely by Logistic Regression and Random Forest.<br>
